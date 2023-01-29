@@ -1,0 +1,6 @@
+
+Lessee name :HAmza
+Country: ethio
+City: aa
+PhoneNumber: 0912345678
+Rented Toyota car for 4 month starting from 2023-01-10 to 2023-05-10

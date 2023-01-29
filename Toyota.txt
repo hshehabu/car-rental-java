@@ -1,0 +1,7 @@
+Car name :Toyota
+Car Model: 123
+CarColor: black
+Car No: 12345
+CarPrice [one Month]: 
+4000.0
+Rented by HAmza for 4 month starting from 2023-01-10 to 2023-05-10
